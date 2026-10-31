@@ -1,0 +1,21 @@
+{
+  "version": "3.1.0",
+  "notes": "Dirtbox v3.1",
+  "packages": {
+    "linux-x86_64": {
+      "url": "Dirtbox%20for%20Linux.zip",
+      "sha256": "49eb70b8f72bab4272390c1d8f863778040dc8fefe16ed4c9a468e57e5f87695",
+      "size": 3470339
+    },
+    "macos-arm64": {
+      "url": "Dirtbox%20for%20macOS.zip",
+      "sha256": "94912ddd5c99df943297400ecfc923f450b97967e963c9c71b76a817fafd1173",
+      "size": 3038010
+    },
+    "windows-x86_64": {
+      "url": "Dirtbox%20for%20Windows.zip",
+      "sha256": "375afea6e8be411a69f9595c57308c292f6fb36f4f9ab0cffc284e6ebeff3cfd",
+      "size": 4114708
+    }
+  }
+}
